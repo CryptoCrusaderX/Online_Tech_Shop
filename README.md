@@ -79,9 +79,7 @@ The Online Tech Shop Web is an e-commerce platform built to provide users with a
 For any queries or support, please reach out:
 
 **Authors:**
-1. **Abdullah Shishir** - [shishir786](https://github.com/shishir786)
-2. **Tanvir Ahmed Tuhin** - [rootanvir](https://github.com/rootanvir)
-3. **Saniul Islam** - [saniulsani](https://github.com/saniulsani)
+1. **Sarad Kandel**
 
 
 
